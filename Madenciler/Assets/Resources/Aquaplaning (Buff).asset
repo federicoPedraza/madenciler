@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ff5d64d9e64635419defced282088d5, type: 3}
+  m_Name: Aquaplaning (Buff)
+  m_EditorClassIdentifier: 
+  spellSettings: {fileID: 11400000, guid: 410d97c201421e0448c9ebca60b8825d, type: 2}
+  type: 0
+  effect: {fileID: 8485588922907856451, guid: fe488e10d89b79e4c92d4e6eaea695da, type: 3}
+  duration: 5
+  movementModifier: 0.2
+  movementMultiplies: 1
